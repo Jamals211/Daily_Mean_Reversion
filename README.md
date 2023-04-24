@@ -31,18 +31,31 @@ Lastly, the return of the SPY since 2012 has been approximately 30%, making it a
 
 
 {'arith mean': -0.009080294698614636,
+
  'arith mean (ann)': -2.2882342640508884,
+ 
  'sigma': 0.4644082828654136,
+ 
  'sigma (ann)': 7.372252939562539,
+ 
  'alpha': -0.00024432987974454967,
+ 
  'alpha SE': 0.00023792144708560865,
+ 
  'alpha (ann)': -0.06157112969562652,
+ 
  'alpha SE (ann)': 0.05995620466557338,
+ 
  'beta': 0.011777518929992337,
+ 
  'betaSE': 0.007091540426405063,
+ 
  'Sharpe ratio': -0.01955239609980454,
+ 
  'Sharpe ratio (ann)': -0.3103846656930723,
+ 
  'information ratio': -0.0005261100819240921,
+ 
  'information ratio (ann)': -0.008351738634089795}
  
 Upon analyzing the variables, it is evident that the strategy yields a negative alpha in comparison to the returns from the SPY between 10.30 and 13.00. Thus, investing in the S&P 500 would be more favorable than utilizing this strategy. Furthermore, both the arithmetic mean and Sharpe Ratio are negative, which aligns with the negative returns of the trading strategy.
